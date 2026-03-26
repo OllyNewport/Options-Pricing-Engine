@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+pytest
+jupyter
+ipykernel
+yfinance
+yfinance
+pandas
+numpy
